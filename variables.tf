@@ -1,13 +1,14 @@
 variable "name" {
-  default = "demo-cluster"
+  default = "k8s-cluster-creation"
+  type = string
 }
 
 variable "project" {
-  default = "optimum-spring-238818"
+  default = "generated-media-310804"
 }
 
 variable "location" {
-  default = "us-central1"
+  default = "us-west1"
 }
 
 variable "initial_node_count" {
