@@ -3,7 +3,9 @@
 My project is an open-source three-tier application which can be accessed in these three repositories:
 
 [Storefront](https://github.com/tomisinlalude/saleor-storefront)
+
 [API](https://github.com/tomisinlalude/saleor-api)
+
 [Admin Dashboard](https://github.com/tomisinlalude/saleor-dashboard)
 
 ## Automate the creation of a K8s cluster with Terraform
